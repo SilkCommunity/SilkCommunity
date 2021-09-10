@@ -3,7 +3,7 @@ name: Project Submission
 about: Submit your project to the Silk.NET Community
 title: 'Project Submission: '
 labels: project submission
-assignees: Perksey, ThomasMiz
+assignees: Perksey, ThomasMiz, HurricanKai
 
 ---
 
