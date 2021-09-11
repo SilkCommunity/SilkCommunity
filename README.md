@@ -45,7 +45,7 @@ Simply open an issue using the "Project Submission" template and the Silk.NET te
 ### Onboarding Requirements
 
 - You will need to adopt the Contributor Covenant Code of Conduct, and ensure your community doesn't break the rules. A copy of this is provided in the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) file. 
-- You will need to use Discord and join the Silk.NET Discord Server so that we can maintain contact with you.
+- You will need to use Discord and join the Silk.NET Discord Server so that we can maintain contact with you, ideally providing an alternative contact method (such as an email address) in case we can't.
 
 ### Ongoing Requirements
 
