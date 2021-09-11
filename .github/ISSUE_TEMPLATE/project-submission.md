@@ -12,7 +12,7 @@ assignees: Perksey, ThomasMiz, HurricanKai
 <!-- Please fill out the below items -->
 
 - Project Name: 
-- Current Maintainers:
+- Current Maintainers (incl. Discord names/discriminators & GitHub accounts):
 - Current License: 
 - Used Silk.NET Libraries:
 - Other Used Libraries: 
