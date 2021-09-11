@@ -14,7 +14,7 @@ assignees: Perksey, ThomasMiz, HurricanKai
 - Project Name: 
 - Current Maintainers (incl. Discord names/discriminators & GitHub accounts):
 - Current License: 
-- Used Silk.NET Libraries:
+- Silk.NET Libraries Used (e.g. Windowing, Input, OpenGL, Vulkan, etc):
 - Other Used Libraries: 
 - GitHub Link: 
 
