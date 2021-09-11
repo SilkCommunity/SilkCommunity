@@ -5,7 +5,7 @@ The Silk.NET Community GitHub is a home for useful community-maintained extensio
 ## Summary
 We created this organisation to give extra recognition to projects the Silk.NET team deem useful and trustworthy, and to serve as a single location for community projects endorsed by the Silk.NET team.
 
-Beenfits for the user:
+Benefits for the user:
 - A single location for add-ons to Silk.NET - no need to go hunting!
 - Readily-available access to mature projects that can be trusted and are endorsed by the Silk.NET team
 
