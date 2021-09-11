@@ -51,7 +51,7 @@ Simply open an issue using the "Project Submission" template and the Silk.NET te
 
 - You will need to maintain conformance with the "Prerequisites" 
 - You, as a project team, will need to conform with the Code of Conduct
-- You will need to remain contactable via Discord.
+- You will need to remain contactable via Discord in the first instance, and via the alternative method provided if all else fails.
 
 Non-conformance, in the worst case, may result in us requesting that the project be transferred out of the organisation - if we are unable to establish contact with a maintainer to do this within 30 days after at least 3 attempts, the project will be archived. You, as the project maintainer, will be able to contact us at any time to get the project unarchived and transferred at any time.
 
