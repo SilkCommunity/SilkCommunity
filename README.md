@@ -40,7 +40,6 @@ Simply open an issue using the "Project Submission" template and the Silk.NET te
 4. Your leadership skills and/or familiarity with the Silk.NET toolset is recognised by the Silk.NET maintainers (e.g. you've proven to be a friendly face in Discord, you're a known contributor on GitHub, and/or are a known Silk.NET evangelist) 
 5. You use a permissive copyright license that is suitable for unrestricted out-of-the-box consumption
      - MIT or MIT-compatible licenses (e.g. Apache 2.0, BSD-3, etc) are recommended
-     - The license must permit dynamic and static linking without conditions that affect the licensing of the consuming project
 
 ### Onboarding Requirements
 
