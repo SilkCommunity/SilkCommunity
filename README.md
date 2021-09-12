@@ -38,8 +38,9 @@ Simply open an issue using the "Project Submission" template and the Silk.NET te
     - Betas and pre-releases are okay, so long as the primary advertised functionality works (i.e. it "does what it says on the tin") 
 3. You solve a problem which the Silk.NET maintainers team recognises as a problem, and they believe that your project is useful when building libraries and applications that use Silk.NET.
 4. Your leadership skills and/or familiarity with the Silk.NET toolset is recognised by the Silk.NET maintainers (e.g. you've proven to be a friendly face in Discord, you're a known contributor on GitHub, and/or are a known Silk.NET evangelist) 
-5. You use a permissive copyright license that is suitable for unrestricted out-of-the-box consumption
+5. You use a permissive copyright license that is suitable for consuming the project as intended without adverse restriction 
      - MIT or MIT-compatible licenses (e.g. Apache 2.0, BSD-3, etc) are recommended
+     - If your project is intended to be consumed on mobile, please ensure your license reasonably permits static linking
 
 ### Onboarding Requirements
 
